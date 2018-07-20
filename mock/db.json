@@ -1,0 +1,82 @@
+{
+  "product": {
+    "products":
+        {
+            "content":"",
+            "imageHDUrl":"http://qa.amway.com.cn/content/dam/china/accl/amwaychina/product/at-home/50188_480_480_3.jpg/jcr:content/renditions/cq5dam.thumbnail.640.640.png",
+            "imageUrl":"http://qa.amway.com.cn/content/dam/china/accl/amwaychina/product/at-home/50188_480_480_3.jpg/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "imageUrl120":"http://qa.amway.com.cn/content/dam/china/accl/amwaychina/product/at-home/50188_480_480_3.jpg/jcr:content/renditions/cq5dam.thumbnail.120.120.png",
+            "imageUrl140":"http://qa.amway.com.cn/content/dam/china/accl/amwaychina/product/at-home/50188_480_480_3.jpg/jcr:content/renditions/cq5dam.thumbnail.140.140.png",
+            "itemClass":"家居",
+            "itemClass2":"益之源净水器",
+            "itemClass3":"益之源净水器",
+            "itemClass4":"",
+            "itemName":"益之源净水器",
+            "itemNumber":"50188",
+            "price":"6980.0",
+            "url":"",
+            "weight":"4.95"
+        },
+   "result":
+     {
+      "code":"",
+      "messgae":""
+     }
+  },
+  "product_old": {
+    "syncState":"Y",
+    "product":{
+      "authNo":"",
+      "bv":"294.95",
+      "component":"",
+      "content":"138克（200片）",
+      "effect":"·每片提供250毫克高含量的维生素C，其中30毫克为天然维生素C。\n·含针叶樱桃提取物和柑桔提取物。\n·外层履有NUTRILOCK片衣，避免营养素的流失，并易于吞咽。\n·不添加人造香料、合成色素或防腐剂。",
+      "guarantee":"",
+      "healthFunc":"补充维生素C",
+      "honor":"",
+      "hotFlag":"9965",
+      "hygieneNo":"",
+      "imageHDUpdateTime":"2014-08-05 05:09:50",
+      "imageHDUrl":"http://qa.amway.com.cn/content/dam/china/accl/amwaychina/product/upload/noimage640.png",
+      "imageUpdateTime":"2014-08-05 05:09:50",
+      "imageUrl":"http://qa.amway.com.cn/content/dam/china/accl/amwaychina/product/upload/29601_480_480_3.jpg",
+      "imageUrl120":"http://qa.amway.com.cn/content/dam/china/accl/amwaychina/product/upload/29601_120_120_1.jpg",
+      "imageUrl140":"http://qa.amway.com.cn/content/dam/china/accl/amwaychina/product/upload/29601_140_140_1.jpg",
+      "inclusion":"",
+      "itemClass":"纽崔莱",
+      "itemClass2":"基础营养系列",
+      "itemClass3":"",
+      "itemClass4":"",
+      "itemName":"维生素C片",
+      "itemNumber":"29601",
+      "method":"每日1~2片，随餐食用。",
+      "newBVProduct":false,
+      "notice":"1、保持瓶盖封闭，并贮存于30℃以下阴凉干燥处。\n2、不宜超过推荐量或与同类营养素补充剂同时食用。\n3、请放置于儿童触及不到的地方。 \n\n \n审批文号：国食健字G20060193",
+      "nutrition":"",
+      "other":"",
+      "price":"347.0",
+      "prodDesc":"",
+      "prodEndDate":"",
+      "prodPubDate":"",
+      "pubTime":"",
+      "pv":"24.78",
+      "range":"",
+      "spec":"",
+      "standard":"",
+      "store":"",
+      "suit":"需要补充维生素C的成年人",
+      "summary":"",
+      "unsuit":"孕妇、乳母。",
+      "volume":"",
+      "weight":"0.167"
+    },
+    "success":"Y",
+    "aecCode":"SC3P"
+  },
+  "token": {
+       "access_token" : "c76435fb-3a03-41d0-bec4-448202934267",
+       "token_type" : "bearer",
+       "scope" : "basic",
+       "expires_in" : 15
+    }
+}
